@@ -1,5 +1,6 @@
 #  Multi-PDF RAG Educational Assistant
 
+live demo : `https://cadenceproject1-cy6sdq4u6ehp6jk8hp2rvf.streamlit.app/`
 An AI-powered educational assistant that uses Retrieval-Augmented Generation (RAG) to answer questions from uploaded PDF documents.
 
 ## Features
@@ -23,31 +24,6 @@ An AI-powered educational assistant that uses Retrieval-Augmented Generation (RA
 - Creates embeddings for all documents.
 - Retrieves the most relevant information from the entire document collection.
 
-###  Topic-Based Summarization
-- Generate summaries for any topic available in the PDFs.
-- Summary is created only from document context.
-- Includes:
-  - Important concepts
-  - Definitions
-  - Key points
-  - Steps and comparisons when available
-
-###  AI Quiz Generator
-- Generates MCQ quizzes from PDF content.
-- Supports difficulty levels:
-  - Easy
-  - Medium
-  - Hard
-
-Each question contains:
-- 4 options
-- Correct answer
-- Explanation
-
-After attempting a question:
-- User can check the answer immediately.
-- Shows whether the answer is correct or wrong.
-- Provides explanation.
 
 ## Tech Stack
 
