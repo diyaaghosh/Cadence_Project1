@@ -1,6 +1,6 @@
 #  Multi-PDF RAG Educational Assistant
 
-live demo : ``` bash 
+live demo : ```bash 
 https://cadenceproject1-cy6sdq4u6ehp6jk8hp2rvf.streamlit.app/
 ```  
 <br>
