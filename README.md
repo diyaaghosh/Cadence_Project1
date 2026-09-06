@@ -1,8 +1,6 @@
 #  Multi-PDF RAG Educational Assistant
 
-live demo : ```bash 
-https://cadenceproject1-cy6sdq4u6ehp6jk8hp2rvf.streamlit.app/
-```  
+live demo : ```https://cadenceproject1-cy6sdq4u6ehp6jk8hp2rvf.streamlit.app/```  
 <br>
 An AI-powered educational assistant that uses Retrieval-Augmented Generation (RAG) to answer questions from uploaded PDF documents.
 
